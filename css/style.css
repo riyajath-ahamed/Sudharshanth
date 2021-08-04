@@ -35,7 +35,7 @@ body{
 
 }
 .header{
-	background: url("images/26293.jpg") no-repeat center top;
+	background: url("images\26293.jpg") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
